@@ -1,1 +1,1 @@
-fatal: Not a valid object name: ‘master‘
+1
